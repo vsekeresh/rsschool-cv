@@ -17,6 +17,7 @@ function multiply(a, b){
 
 ## Education:
 Bachelor's degree in **Management**
+
 *Kyiv National University of Trade and Economics* 
 
 ## Languages:
