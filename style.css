@@ -2,3 +2,11 @@
     font-family: Wittgenstein-VariableFont_wght;
     src: url("assets/fonts/Wittgenstein-VariableFont_wght.ttf");
   }
+  * {
+    box-sizing: border-box;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
