@@ -8,6 +8,7 @@ I am stress-resistant and quickly learn new skills.
 Currently studying at [RS School](https://rs.school) from The Rolling Scopes community. 
 ## Skills:
     Git,GitHub
+    Html,CSS
     JavaScript (basic)
     VS Code
 ## Code example:
